@@ -1,0 +1,32 @@
+body{
+     margin: 0;
+     padding: 0;
+     text-align: center;
+}
+.container{
+    background-color: aqua;
+    color: blue;
+    width: 100vw;
+    height: 100vh;
+}
+h1{
+    font-size: 3em;
+}
+button{
+    height: 60px;
+    width: 130px;
+    background-color: blueviolet;
+    margin: 30px;
+    font-size: 3em;
+    color: bisque;
+    border-radius:10px ;
+}
+.img{
+    height: 400px;
+    width: 350px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: bisque;
+    color: blue;
+}
